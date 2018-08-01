@@ -1,4 +1,4 @@
-require_relative './spec_helper'
+.openrequire_relative './spec_helper'
 
 SOURCE_FILE="my_url.txt"
 
