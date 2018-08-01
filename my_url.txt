@@ -1,2 +1,2 @@
-http://luxuriant-amusement.surge.sh*\.surge\.sh\z/
+http://luxuriant-amusement.surge.sh
 
