@@ -1,2 +1,2 @@
-http://luxuriant-amusement.surge.sh
+luxuriant-amusement.surge.sh
 
